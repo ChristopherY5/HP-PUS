@@ -1,0 +1,8 @@
+# Game generated files #
+src/BatchFTP/bin/Release/
+src/BatchFTP/bin/Debug/
+src/BatchFTP/obj/Release/
+src/BatchFTP/obj/Debug/
+
+# Visual Studio Garbage #
+*.suo
