@@ -8,3 +8,6 @@ C:\Users\Jhaslowh\Desktop\BatchFTP\BatchFTP\obj\Release\HP Printer - MFP Utility
 C:\Users\Jhaslowh\Desktop\BatchFTP\BatchFTP\obj\Release\HP Printer - MFP Utility Kit.pdb
 C:\Users\Jhaslowh\Desktop\BatchFTP\BatchFTP\obj\Release\BatchFTP.About.resources
 C:\Users\Jhaslowh\Desktop\BatchFTP\BatchFTP\obj\Release\BatchFTP.csprojResolveAssemblyReference.cache
+C:\Users\Jhaslowh\Documents\GitHub\HP-PUS\src\BatchFTP\bin\Release\HP Printer - MFP Utility Kit.exe.config
+C:\Users\Jhaslowh\Documents\GitHub\HP-PUS\src\BatchFTP\obj\Release\HP Printer - MFP Utility Kit.exe
+C:\Users\Jhaslowh\Documents\GitHub\HP-PUS\src\BatchFTP\obj\Release\HP Printer - MFP Utility Kit.pdb
